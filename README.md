@@ -11,7 +11,7 @@
 * Alternatively create a jar and run form command line passing Basket Items as Arguments
 
 ### Design
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/SwaroopLata/pricebasketcalculator/blob/master/price-basket-calculator-design.png)
 
 ### Todo
 * Dependency Injection using Spring
